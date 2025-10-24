@@ -18,16 +18,4 @@ Open `index.html` in your browser or run:
 ```bash
 python -m http.server 8080
 # then visit http://localhost:8080
-💰 Plans
-
-Basic: up to 500 members → ARS 90,000 /month
-
-Premium: 501–1,000 members → ARS 150,000 /month
-
-Elite: 1,001+ members → ARS 250,000 /month
-Includes analytics, nutrition advice, and dashboard customization.
-📄 View Case Study (PDF)
-
-📩 Request a Demo
-
 © 2025 SmartCoach AI — All rights reserved.
